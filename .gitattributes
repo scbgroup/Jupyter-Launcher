@@ -1,1 +1,2 @@
 *.scpt diff=scpt
+*.scpt linguist-language=applescript
