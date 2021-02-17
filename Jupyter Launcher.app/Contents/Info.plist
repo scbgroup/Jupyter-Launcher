@@ -28,7 +28,7 @@
 	<key>CFBundleExecutable</key>
 	<string>droplet</string>
 	<key>CFBundleIconFile</key>
-	<string>droplet</string>
+	<string>jupyter_logo.icns</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.apple.ScriptEditor.id.test</string>
 	<key>CFBundleInfoDictionaryVersion</key>
