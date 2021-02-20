@@ -4,9 +4,33 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Resources/Script Libraries/PrefsStorageLib.scptd/Contents/Info.plist</key>
+		<data>
+		zhvBheiXg08uFVQVfczRjr/VZMc=
+		</data>
+		<key>Resources/Script Libraries/PrefsStorageLib.scptd/Contents/Resources/ScriptingDictionary.sdef</key>
+		<data>
+		2h1/1PMFJmH+4+EjC+afUW7aVSU=
+		</data>
+		<key>Resources/Script Libraries/PrefsStorageLib.scptd/Contents/Resources/Scripts/main.recover.rtf</key>
+		<data>
+		kIRpISjcbhSoFzVG+TQLFI3DcIU=
+		</data>
+		<key>Resources/Script Libraries/PrefsStorageLib.scptd/Contents/Resources/Scripts/main.scpt</key>
+		<data>
+		ydarz6tdIEwujhZk6rOg5xarZbs=
+		</data>
+		<key>Resources/Script Libraries/PrefsStorageLib.scptd/Contents/Resources/description.rtfd/TXT.rtf</key>
+		<data>
+		vYtwiprEetw22USW6Dx6qWlFhbg=
+		</data>
+		<key>Resources/Script Libraries/PrefsStorageLib.scptd/Contents/Script Debugger.plist</key>
+		<data>
+		6TRJeC5ov9Hv27mrJIWjWN0Pouo=
+		</data>
 		<key>Resources/Scripts/main.scpt</key>
 		<data>
-		Erlv5SzWTgao+VKX3B/B+tcPOO0=
+		6BMR8wqJM4jawT96BhDNJSY565o=
 		</data>
 		<key>Resources/description.rtfd/TXT.rtf</key>
 		<data>
@@ -15,6 +39,10 @@
 		<key>Resources/droplet.rsrc</key>
 		<data>
 		PjBBVBBu8p28DpQ4mTJXm24yae0=
+		</data>
+		<key>Resources/jupyter_logo.icns</key>
+		<data>
+		42+AC2K8g/xrU9/89MYFPKm5RNw=
 		</data>
 		<key>Resources/jupyter_notebook.icns</key>
 		<data>
@@ -27,15 +55,81 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Resources/Script Libraries/PrefsStorageLib.scptd/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zhvBheiXg08uFVQVfczRjr/VZMc=
+			</data>
+			<key>hash2</key>
+			<data>
+			1dRCzft15eHY0spx9i2a+g9qcofiwj9yKd79DogSBGo=
+			</data>
+		</dict>
+		<key>Resources/Script Libraries/PrefsStorageLib.scptd/Contents/Resources/ScriptingDictionary.sdef</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2h1/1PMFJmH+4+EjC+afUW7aVSU=
+			</data>
+			<key>hash2</key>
+			<data>
+			YfByxT/QflHHDE5sL4GHqAa7vKLcbcXU+BQ0ZDOxzEk=
+			</data>
+		</dict>
+		<key>Resources/Script Libraries/PrefsStorageLib.scptd/Contents/Resources/Scripts/main.recover.rtf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kIRpISjcbhSoFzVG+TQLFI3DcIU=
+			</data>
+			<key>hash2</key>
+			<data>
+			d4SqA3N0qr35UzgWV8qVGMRQ7fXxb3t5qQ9ApVTacck=
+			</data>
+		</dict>
+		<key>Resources/Script Libraries/PrefsStorageLib.scptd/Contents/Resources/Scripts/main.scpt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ydarz6tdIEwujhZk6rOg5xarZbs=
+			</data>
+			<key>hash2</key>
+			<data>
+			hh/gN6D4DEy1clDAvqUEU0Tt/lUPokQM4ZfG9LxXLps=
+			</data>
+		</dict>
+		<key>Resources/Script Libraries/PrefsStorageLib.scptd/Contents/Resources/description.rtfd/TXT.rtf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vYtwiprEetw22USW6Dx6qWlFhbg=
+			</data>
+			<key>hash2</key>
+			<data>
+			z0J2oGCqZO/7Ic5Rbh6oSkqWkUQ/m9+kcWcmqcxhMq4=
+			</data>
+		</dict>
+		<key>Resources/Script Libraries/PrefsStorageLib.scptd/Contents/Script Debugger.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6TRJeC5ov9Hv27mrJIWjWN0Pouo=
+			</data>
+			<key>hash2</key>
+			<data>
+			Q3BLahhOHUsAO8oBpjm1WY8iFaF+8DjQUgvl0ta0nSc=
+			</data>
+		</dict>
 		<key>Resources/Scripts/main.scpt</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Erlv5SzWTgao+VKX3B/B+tcPOO0=
+			6BMR8wqJM4jawT96BhDNJSY565o=
 			</data>
 			<key>hash2</key>
 			<data>
-			CBPFM4IvZ5kQt/2qOp2nCjRfIRE7HRn4MCPi1b4YwGA=
+			4gOTj8e6W1/CDo9PmzIeuDvjL8F9whBYvMV/bak9hXI=
 			</data>
 		</dict>
 		<key>Resources/description.rtfd/TXT.rtf</key>
@@ -58,6 +152,17 @@
 			<key>hash2</key>
 			<data>
 			ZzXE60CZKhF/lXUxiATaq/2D/0ONkMlT2VJOh+ySWjo=
+			</data>
+		</dict>
+		<key>Resources/jupyter_logo.icns</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			42+AC2K8g/xrU9/89MYFPKm5RNw=
+			</data>
+			<key>hash2</key>
+			<data>
+			43IHCVvSeGRlJrkEwLLP0u9i55Pc+hH2WTsysczNzq4=
 			</data>
 		</dict>
 		<key>Resources/jupyter_notebook.icns</key>
