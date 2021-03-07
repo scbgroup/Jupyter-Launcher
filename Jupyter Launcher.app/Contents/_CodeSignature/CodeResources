@@ -4,6 +4,30 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Resources/Script Libraries/Dialog Toolkit Plus.scptd/Contents/Info.plist</key>
+		<data>
+		1Q2mDsLhDrzvTIitkvs67DCoIgo=
+		</data>
+		<key>Resources/Script Libraries/Dialog Toolkit Plus.scptd/Contents/Resources/ScriptingDictionary.sdef</key>
+		<data>
+		kHtnmags/9SRvOzDY4psnBzJ6YE=
+		</data>
+		<key>Resources/Script Libraries/Dialog Toolkit Plus.scptd/Contents/Resources/Scripts/main.recover.rtf</key>
+		<data>
+		udBq2K5RgkvS/ckJD0odTq/vY3M=
+		</data>
+		<key>Resources/Script Libraries/Dialog Toolkit Plus.scptd/Contents/Resources/Scripts/main.scpt</key>
+		<data>
+		XM7bpjFbZmDbDme1D6sUsl0YgYI=
+		</data>
+		<key>Resources/Script Libraries/Dialog Toolkit Plus.scptd/Contents/Resources/description.rtfd/TXT.rtf</key>
+		<data>
+		JdCHmFsejhMRQNi2CzUAg7xM/6Q=
+		</data>
+		<key>Resources/Script Libraries/Dialog Toolkit Plus.scptd/Contents/Script Debugger.plist</key>
+		<data>
+		W5hH1afuoDLoBnE7oz+EFXnr9sI=
+		</data>
 		<key>Resources/Script Libraries/PrefsStorageLib.scptd/Contents/Info.plist</key>
 		<data>
 		zhvBheiXg08uFVQVfczRjr/VZMc=
@@ -30,7 +54,7 @@
 		</data>
 		<key>Resources/Scripts/main.scpt</key>
 		<data>
-		Z3O/Z8rvHdIOTR3zjwMs80jwLw0=
+		RiQFKbD0AdUvpS4qu5Enn73SawQ=
 		</data>
 		<key>Resources/description.rtfd/TXT.rtf</key>
 		<data>
@@ -55,6 +79,72 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Resources/Script Libraries/Dialog Toolkit Plus.scptd/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1Q2mDsLhDrzvTIitkvs67DCoIgo=
+			</data>
+			<key>hash2</key>
+			<data>
+			y1kLzIauAWPVHXYOEbxreXca9iUgoTI8cAssHrg0r8E=
+			</data>
+		</dict>
+		<key>Resources/Script Libraries/Dialog Toolkit Plus.scptd/Contents/Resources/ScriptingDictionary.sdef</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kHtnmags/9SRvOzDY4psnBzJ6YE=
+			</data>
+			<key>hash2</key>
+			<data>
+			rntr+l9DfuLgB1luNzud7Gt5J/LPKDtomxsaNyOXQJY=
+			</data>
+		</dict>
+		<key>Resources/Script Libraries/Dialog Toolkit Plus.scptd/Contents/Resources/Scripts/main.recover.rtf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			udBq2K5RgkvS/ckJD0odTq/vY3M=
+			</data>
+			<key>hash2</key>
+			<data>
+			SCzBy4kJWZcdyBtRxK0KFouINJK8d2vi+olCGwfPMy8=
+			</data>
+		</dict>
+		<key>Resources/Script Libraries/Dialog Toolkit Plus.scptd/Contents/Resources/Scripts/main.scpt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XM7bpjFbZmDbDme1D6sUsl0YgYI=
+			</data>
+			<key>hash2</key>
+			<data>
+			P22YIt7whlRO8NrxcB7rIzHmiHaE8SlJp9GEENL3eks=
+			</data>
+		</dict>
+		<key>Resources/Script Libraries/Dialog Toolkit Plus.scptd/Contents/Resources/description.rtfd/TXT.rtf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JdCHmFsejhMRQNi2CzUAg7xM/6Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			e8RCmynIiyJGwHTnWQowZeGP0OUnjjA6SQTvIzP7Hxs=
+			</data>
+		</dict>
+		<key>Resources/Script Libraries/Dialog Toolkit Plus.scptd/Contents/Script Debugger.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			W5hH1afuoDLoBnE7oz+EFXnr9sI=
+			</data>
+			<key>hash2</key>
+			<data>
+			KWOqRw5q6EkdkMqXKTBnHOyHveWokVqaWB5ZvDE69Bk=
+			</data>
+		</dict>
 		<key>Resources/Script Libraries/PrefsStorageLib.scptd/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
@@ -125,11 +215,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Z3O/Z8rvHdIOTR3zjwMs80jwLw0=
+			RiQFKbD0AdUvpS4qu5Enn73SawQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			mFSTZqHjBK9xtb0RnVIoNJkjvp+H6HO0FfTR18l+WjQ=
+			TCKf4WS/kq01Bmrotw/iyW56qvOTZ1m3AbZOyvxpNdk=
 			</data>
 		</dict>
 		<key>Resources/description.rtfd/TXT.rtf</key>
